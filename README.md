@@ -1,1 +1,1 @@
-# vue-eslint
+# @easterok/vue-eslint
